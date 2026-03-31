@@ -3,6 +3,8 @@ Project Overview
 This project analyzes sales data from Bright Coffee Shop to identify trends, insights, and patterns in customer behavior. The aim is to provide actionable recommendations to improve revenue, optimize product offerings, and understand peak sales periods.
 
 Objectives
+
+
 Clean and preprocess sales data for accurate analysis.
 Identify revenue trends across different product categories and store locations.
 Analyze customer spending behavior using spend bucket categories (Low, Medium, Ballers).
